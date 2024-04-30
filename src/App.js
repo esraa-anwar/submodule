@@ -4,6 +4,7 @@ import Button from './Button';
 function App() {
   const handleClick = () => {
     alert('Button clicked!');
+    alert('hello bbbb!');
   };
 
   return (
