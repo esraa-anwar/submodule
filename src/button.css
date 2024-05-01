@@ -4,4 +4,6 @@
     width: 150px;
     background-color: blueviolet;
     color: #ffff;
+    border: none;
+    border-radius: 25%;
 }
