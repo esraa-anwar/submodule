@@ -1,8 +1,8 @@
 .btn {
     height: 45px;
-    width: 150px;
+    width: 170px;
     background-color: blueviolet;
     color: #ffff;
     border: none;
-    border-radius: 25%;
+    border-radius: 25px;
 }
